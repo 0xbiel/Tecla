@@ -1,4 +1,4 @@
 # Tecla
-Tecla is a tool to show key codes.
+Tecla is a key code logger
 
 ![preview](preview.png)
