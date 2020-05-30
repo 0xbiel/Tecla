@@ -3,7 +3,7 @@
   Tecla
   =====
   
-  (c) 2020 - Gabriel Polastrini
+  (c) 2020 - 0xbiel
 
   Tecla is a tool to show key codes.
 
@@ -32,7 +32,7 @@ int main(void) {
 
   //Print a prompt and refresh the screen
   mvaddstr(3, 10, "<Tecla>");
-  mvaddstr(5, 10, "© Gabriel Polastrini");
+  mvaddstr(5, 10, "© 0xbiel");
 
   mvaddstr(8, 10, "Press a key ('q' to quit)...");
   mvprintw(10, 10, "You pressed: ");
